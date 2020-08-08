@@ -13,6 +13,7 @@ public class Demo {
 			Reporter.log("hello", true);
 			
 			Reporter.log("hello", true);
+			
 			Reporter.log("hello", true);
 			Reporter.log("hello", true);
 			Reporter.log("hello", true);
