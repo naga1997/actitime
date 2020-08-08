@@ -11,6 +11,7 @@ public class Demo {
 		public void demo()
 		{
 			Reporter.log("hello", true);
+			
 			Reporter.log("hello", true);
 			Reporter.log("hello", true);
 			Reporter.log("hello", true);
